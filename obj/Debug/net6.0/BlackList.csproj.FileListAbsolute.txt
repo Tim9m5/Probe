@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\BlackList\bin\Debug\net6.0\BlackList.exe
+C:\Users\user\Desktop\BlackList\bin\Debug\net6.0\BlackList.deps.json
+C:\Users\user\Desktop\BlackList\bin\Debug\net6.0\BlackList.runtimeconfig.json
+C:\Users\user\Desktop\BlackList\bin\Debug\net6.0\BlackList.dll
+C:\Users\user\Desktop\BlackList\bin\Debug\net6.0\BlackList.pdb
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.AssemblyInfo.cs
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.dll
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\refint\BlackList.dll
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.pdb
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\BlackList.genruntimeconfig.cache
+C:\Users\user\Desktop\BlackList\obj\Debug\net6.0\ref\BlackList.dll
